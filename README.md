@@ -8,7 +8,7 @@ Wulver is licensed under the BSD 3-clause license.
 
 Requirements:
 * Compatible operating system. At this time, Wulver is known to be compatible with FreeBSD 9.0 and Gentoo Linux, and will be directly maintained on both platforms.
-* Perl 5, and all necessary modules. A list of necessary modules is not available at this time.
+* Perl 5, and all necessary modules. A list of necessary modules is not available at this time. You will also need to ensure perl is compiled with threading support.
 * More as the project develops.
 
 Installing:
